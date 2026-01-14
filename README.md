@@ -12,3 +12,6 @@ Este repositorio contiene mi **Currículum Vitae (CV)** y proyectos prácticos d
 
 ## 🎯 Objetivo
 Mostrar mis habilidades en **testing manual y automatizado**, documentación técnica clara y gestión de incidencias con Jira, aplicadas en proyectos reales y de aprendizaje continuo.
+<p align="center">
+  <img src="banner.png" alt="María José Fragoso Benítez - QA Engineer en formación" width="100%">
+</p>
