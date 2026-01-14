@@ -15,3 +15,6 @@ Mostrar mis habilidades en **testing manual y automatizado**, documentación té
 <p align="center">
   <img src="banner.png" alt="María José Fragoso Benítez - QA Engineer en formación" width="100%">
 </p>
+<p align="center">
+  <img src="banner.png" alt="María José Fragoso Benítez - QA Engineer en formación" width="100%">
+</p>
