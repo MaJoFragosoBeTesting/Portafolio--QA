@@ -48,7 +48,7 @@ Me apasiona la optimización de procesos, el testing manual y automatizado, y la
 ## 📫 Contacto
 - ✉️ Email: majofragosob@gmail.com  
 - 💼 LinkedIn: [María José Fragoso Benítez](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-fragoso-ben%C3%ADtez-575b6b316/)  
-- 🐙 GitHub: [MariaFragoso](https://github.com/MariaFragoso)
+- 🐙 GitHub:https://github.com/MaJoFragosoBeTesting
 
 
 ---
