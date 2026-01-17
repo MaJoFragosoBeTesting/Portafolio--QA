@@ -46,9 +46,10 @@ Me apasiona la optimización de procesos, el testing manual y automatizado, y la
 ---
 
 ## 📫 Contacto
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.fragoso.qa@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariafragosoqa)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariafragoso)
+- ✉️ Email: majofragosob@gmail.com  
+- 💼 LinkedIn: [María José Fragoso Benítez](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-fragoso-ben%C3%ADtez-575b6b316/)  
+- 🐙 GitHub: [MariaFragoso](https://github.com/MariaFragoso)
+
 
 ---
 
